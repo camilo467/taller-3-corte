@@ -68,7 +68,7 @@
 </head>
 <body>
     <header>
-        <h1>Tienda en linea para q compres tdos tus productos</h1>
+        <h1>Tienda en linea para q compres todos tus productos</h1>
         <p></p>
     </header>
     <nav>
